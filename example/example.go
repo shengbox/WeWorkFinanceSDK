@@ -3,10 +3,11 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/NICEXAI/WeWorkFinanceSDK"
 	"io/ioutil"
 	"os"
 	"path"
+
+	"github.com/shengbox/WeWorkFinanceSDK"
 )
 
 func main() {
